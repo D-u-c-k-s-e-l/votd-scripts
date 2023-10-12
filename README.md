@@ -1,5 +1,5 @@
 # votd.fish
-A Verse-Of-The-Day script for fish.
+A bible verse of the day script for fish.
 
 ## Installing
 
