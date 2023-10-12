@@ -1,7 +1,7 @@
 # votd.fish
 A Verse-Of-The-Day script for fish.
 
-# Installing
+## Installing
 
 Requirements: install `fish` (friendly interactive shell).
 
@@ -9,7 +9,8 @@ Requirements: install `fish` (friendly interactive shell).
 2) Copy it into a new file: `~/.local/bin/votd`.
 3) Test that it's working by running `votd` in a terminal.
 
-# API
+## API
+
 The current API in use is `https://www.kingjamesbibleonline.org/`.  
 It's not really an API but it works.  
 If you would like a different api, change the `Votd_API` variable and the `sed` commands to match.
