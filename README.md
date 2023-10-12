@@ -14,3 +14,7 @@ Requirements: install `fish` (friendly interactive shell).
 The current API in use is `https://www.kingjamesbibleonline.org/`.  
 It's not really an API but it works.  
 If you would like a different api, change the `Votd_API` variable and the `sed` commands to match.
+
+## Simalar
+
+Here's a `.sh` one for `https://biblegateway.com/`: [mztriz/votd](https://github.com/mztriz/votd/)
